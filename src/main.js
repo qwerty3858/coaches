@@ -12,7 +12,7 @@ const app = createApp(App)
 app.use(router);
 app.use(store);
 
-app.component('base-card2', BaseCard);
+app.component('base-card3', BaseCard);
 app.component('base-button', BaseButton);
 app.component('base-badge', BaseBadge);
 
