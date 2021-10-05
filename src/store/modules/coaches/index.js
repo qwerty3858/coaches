@@ -8,7 +8,7 @@ export default {
     return {
       coaches: [
         {
-          id: 'c12',
+          id: 'c1',
           firstName: 'Maximilian',
           lastName: 'Schwarzmüller',
           areas: ['frontend', 'backend', 'career'],
